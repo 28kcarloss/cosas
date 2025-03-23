@@ -2,7 +2,7 @@
     {
         "codigo": 1001,
         "marca": "Toyota",
-        "logo": "https://imgs.search.brave.com/xUKbbE18V595WvzzcWapd04zZ070eZSXaTtACmDAwgc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly96b250/ZXNiYW5nbGFkZXNo/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wOS96b250/ZXMtY2hpbmEtbG9n/by5wbmc",
+        "logo": "https://imgs.search.brave.com/y6dyNro_tKJ27zD4iyNm-FPKmxK9fBxaD8DBV9aE2Uc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvYm13X2xvZ28v/Ym13X2xvZ29fUE5H/MTk2OTkucG5n",
         "tipo": "Sedán 🚗",
         "modelo": "Toyota Corolla",
         "caracteristicas": "5 asientos, motor de 2.0L",
@@ -18,7 +18,7 @@
     {
         "codigo": 1002,
         "marca": "Honda",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_Honda_F1.png",
+        "logo": "https://imgs.search.brave.com/y6dyNro_tKJ27zD4iyNm-FPKmxK9fBxaD8DBV9aE2Uc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvYm13X2xvZ28v/Ym13X2xvZ29fUE5H/MTk2OTkucG5n",
         "tipo": "SUV 🚙",
         "modelo": "Honda CR-V",
         "caracteristicas": "7 asientos, tracción en las 4 ruedas",
@@ -82,7 +82,7 @@
     {
         "codigo": 1006,
         "marca": "Chevrolet",
-        "logo": "https://1000marcas.net/wp-content/uploads/2020/01/Chevrolet-logo.png",
+        "logo": "https://imgs.search.brave.com/VjbIhWR2eGwBm_CJW_Ufs6DObBXS0brtlOJJJ4BOcfM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA2/L1lhbWFoYS1Mb2dv/LTUwMHgyODEucG5n",
         "tipo": "Deportivo 🏎️",
         "modelo": "Chevrolet Camaro",
         "caracteristicas": "Potente motor V8, diseño deportivo",
