@@ -111,37 +111,6 @@
         "precio_venta": 24000,
         "existencia": 2000
     },
-    {
-        "codigo": 1008,
-        "marca": "Toyota",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Toyota_logo_%28Red%29.svg/2560px-Toyota_logo_%28Red%29.svg.png",
-        "tipo": "SUV 🚙",
-        "modelo": "Toyota RAV4",
-        "caracteristicas": "Estilo deportivo, ideal para la aventura",
-        "imagen": "https://deltacomercial.com.do/cdn/modelos/rav4/43670b4254bab43b747ec25fbfdf3713.png",
-        "numeroPuertas": 4,
-        "motor": "2.5L",
-        "combustible": "Gasolina",
-        "categoria": "Intermedio",
-        "precio_compra": 30000,
-        "precio_venta": 33000,
-        "existencia": 2000
-    },
-    {
-        "codigo": 1009,
-        "marca": "Mazda",
-        "logo": "https://pngimg.com/d/mazda_PNG86.png",
-        "tipo": "Hatchback 🚗",
-        "modelo": "Mazda 3",
-        "caracteristicas": "Diseño elegante y deportivo, excelente manejo",
-        "imagen": "https://di-uploads-pod2.dealerinspire.com/headquartermazdaspanishtoggle/uploads/2016/10/2017-Mazda3-Hatchback-On-White.png",
-        "numeroPuertas": 4,
-        "motor": "2.0L",
-        "combustible": "Gasolina",
-        "categoria": "Económico",
-        "precio_compra": 23000,
-        "precio_venta": 25500,
-        "existencia": 2000
-    },
+    
       
 ]
