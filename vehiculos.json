@@ -49,8 +49,8 @@
     },
     {
         "codigo": 1004,
-        "marca": "Volkswagen",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/2048px-Volkswagen_logo_2019.svg.png",
+        "marca": "KTM",
+        "logo": "https://imgs.search.brave.com/FxH07d_otkBmPNsxIQWyQZaa6L-30TI1zxKEW8CMdp0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ29zLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxMS8w/Ni9rdG0tYXV0by12/ZWN0b3ItbG9nby5w/bmc",
         "tipo": "Compacto 🚗",
         "modelo": "Volkswagen Golf",
         "caracteristicas": "4 asientos, económico y versátil",
@@ -66,7 +66,7 @@
     {
         "codigo": 1005,
         "marca": "Ford",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/1200px-Ford_logo_flat.svg.png",
+        "logo": "https://imgs.search.brave.com/CArrJu7XmkV-8N2MMHqUZakni_nkvo9QmaVVi3vsS5c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA5/L0R1Y2F0aS1Mb2dv/LTUwMHg1MDAucG5n",
         "tipo": "Camioneta 🚚",
         "modelo": "Ford Explorer",
         "caracteristicas": "Capacidad para 7 pasajeros, tracción en las 4 ruedas",
@@ -98,9 +98,9 @@
     {
         "codigo": 1007,
         "marca": "Honda",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_Honda_F1.png",
+        "logo": "https://imgs.search.brave.com/T-f393iM1BWEFwC3D9LMbO_XzTPrraalQqCel6ZotrQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bWFyY2FzLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/My9Ib25kYS1Nb3Rv/LUxvZ28tMTk4OC01/MDB4MjgzLnBuZw",
         "tipo": "Sedán 🚗",
-        "modelo": "Honda Civic",
+        "modelo": "Honda C",
         "caracteristicas": "Espacioso y eficiente en combustible",
         "imagen": "https://zontesmotos.es/wp-content/uploads/2024/06/Custom-c125-azul-mate.png",
         "numeroPuertas": 4,
